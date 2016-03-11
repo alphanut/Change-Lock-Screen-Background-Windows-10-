@@ -1,0 +1,2 @@
+MainPackage=c:\users\brmedi\documents\visual studio 2015\Projects\ChangeLockScreen\ChangeLockScreen\bin\ARM\Debug\ChangeLockScreen_1.0.0.0_ARM_Debug.appx
+SymbolPackage=c:\users\brmedi\documents\visual studio 2015\Projects\ChangeLockScreen\ChangeLockScreen\AppPackages\ChangeLockScreen_1.0.0.0_Debug_Test\ChangeLockScreen_1.0.0.0_ARM_Debug.appxsym

@@ -1,0 +1,1 @@
+c:\users\brmedi\documents\visual studio 2015\Projects\ChangeLockScreen\ChangeLockScreen\ChangeLockScreen.csproj;x64
